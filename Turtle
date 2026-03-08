@@ -22,7 +22,7 @@ height:100vh;
 <body>
 
 <model-viewer
-src="modelo.glb"
+src="13103_pearlturtle_v1_l2.glb"
 ar
 ar-modes="scene-viewer webxr quick-look"
 camera-controls
